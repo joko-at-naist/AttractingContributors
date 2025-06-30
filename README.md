@@ -16,3 +16,4 @@
 - sijimi
 - deep fried tofu
 - tofu
+- eggplant

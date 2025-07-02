@@ -16,3 +16,4 @@
 - Without You - Avicii
 - Plazma - Kenshi Yonezu
 - Take On Me - a-ha
+- FIESTA - IZ*ONE

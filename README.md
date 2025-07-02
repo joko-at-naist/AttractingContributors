@@ -15,3 +15,4 @@
 - Macbook ¥150,000
 - Car ￥3,000,000
 - electric bass ￥120,000
+- tuition

@@ -17,3 +17,5 @@
 - deep fried tofu
 - tofu
 - eggplant
+- wakame
+

@@ -13,4 +13,5 @@
 - Sleep
 - chat with my partner
 - talk with family member
+- go to botanical garden🪴
 

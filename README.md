@@ -7,6 +7,7 @@
 - Make friends
 - Take enough sleep
 - Listen to music
+- Eat favorite foods
 - take a bath
 - Eat a lot
 - Sleep

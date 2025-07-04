@@ -14,4 +14,5 @@
 - chat with my partner
 - talk with family member
 - Video call with my partner
+- Eat
 
